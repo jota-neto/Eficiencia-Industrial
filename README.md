@@ -59,7 +59,10 @@ A decomposição dos indicadores revelou disparidades críticas entre as máquin
 
 ---
 
-### Como reproduzir:
-1. Carregue o arquivo CSV da pasta `/Dados`.
-2. No Power BI/Excel, abra o Editor Avançado do Power Query.
-3. Utilize o conteúdo da pasta `/scripts`, ajustando o caminho da `Fonte` para o seu diretório local.
+### 🚀 Como Reproduzir este Projeto
+
+Para replicar esta análise em seu ambiente local, siga os passos abaixo:
+
+1. **Dados:** Carregue o arquivo CSV localizado na pasta `/Dados`.
+2. **Ambiente:** No Power BI ou Excel, abra o **Editor Avançado** do Power Query.
+3. **Scripts:** Utilize o conteúdo da pasta `/scripts`, lembrando de ajustar o caminho da etapa `Fonte` para o seu diretório local.
